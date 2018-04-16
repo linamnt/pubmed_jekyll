@@ -12,7 +12,7 @@ Retreives the following info:
 - DOI Link if it exists.
 - Abstract Text: Only in --verbose mode, and will only be printed (not in yml file)
 
-Saves information to _data/papers.yml unless --verbose (only prints results)
+Saves information to _data/papers.yml unless `--do_not_populate` (only prints results)
 
 Usage:
 
